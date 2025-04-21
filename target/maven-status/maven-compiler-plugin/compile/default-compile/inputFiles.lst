@@ -1,8 +1,14 @@
-/Users/jonathanbernal/Documents/Duoc/FullStack/Week9/duoc_usuarios/src/main/java/com/nathan/duoc_usuarios/SpringbootLibrosApplication.java
-/Users/jonathanbernal/Documents/Duoc/FullStack/Week9/duoc_usuarios/src/main/java/com/nathan/duoc_usuarios/controllers/UsuarioController.java
-/Users/jonathanbernal/Documents/Duoc/FullStack/Week9/duoc_usuarios/src/main/java/com/nathan/duoc_usuarios/controllers/UsuarioNotFoundExcepcion.java
-/Users/jonathanbernal/Documents/Duoc/FullStack/Week9/duoc_usuarios/src/main/java/com/nathan/duoc_usuarios/dto/LoginDto.java
-/Users/jonathanbernal/Documents/Duoc/FullStack/Week9/duoc_usuarios/src/main/java/com/nathan/duoc_usuarios/dto/UsuarioDto.java
-/Users/jonathanbernal/Documents/Duoc/FullStack/Week9/duoc_usuarios/src/main/java/com/nathan/duoc_usuarios/repository/UsuarioRepository.java
-/Users/jonathanbernal/Documents/Duoc/FullStack/Week9/duoc_usuarios/src/main/java/com/nathan/duoc_usuarios/service/UsuarioService.java
-/Users/jonathanbernal/Documents/Duoc/FullStack/Week9/duoc_usuarios/src/main/java/com/nathan/duoc_usuarios/service/UsuarioServicelmpl.java
+C:\Dev\projects\fullstack3\Semana 6\spingboot-libros\src\main\java\com\nathan\springboot_libros\controllers\LibroController.java
+C:\Dev\projects\fullstack3\Semana 6\spingboot-libros\src\main\java\com\nathan\springboot_libros\controllers\LibroNotFoundExcepcion.java
+C:\Dev\projects\fullstack3\Semana 6\spingboot-libros\src\main\java\com\nathan\springboot_libros\controllers\UsuarioController.java
+C:\Dev\projects\fullstack3\Semana 6\spingboot-libros\src\main\java\com\nathan\springboot_libros\controllers\UsuarioNotFoundExcepcion.java
+C:\Dev\projects\fullstack3\Semana 6\spingboot-libros\src\main\java\com\nathan\springboot_libros\dto\LibroDto.java
+C:\Dev\projects\fullstack3\Semana 6\spingboot-libros\src\main\java\com\nathan\springboot_libros\dto\LoginDto.java
+C:\Dev\projects\fullstack3\Semana 6\spingboot-libros\src\main\java\com\nathan\springboot_libros\dto\UsuarioDto.java
+C:\Dev\projects\fullstack3\Semana 6\spingboot-libros\src\main\java\com\nathan\springboot_libros\repository\LibroRepository.java
+C:\Dev\projects\fullstack3\Semana 6\spingboot-libros\src\main\java\com\nathan\springboot_libros\repository\UsuarioRepository.java
+C:\Dev\projects\fullstack3\Semana 6\spingboot-libros\src\main\java\com\nathan\springboot_libros\service\LibroService.java
+C:\Dev\projects\fullstack3\Semana 6\spingboot-libros\src\main\java\com\nathan\springboot_libros\service\LibroServicelmpl.java
+C:\Dev\projects\fullstack3\Semana 6\spingboot-libros\src\main\java\com\nathan\springboot_libros\service\UsuarioService.java
+C:\Dev\projects\fullstack3\Semana 6\spingboot-libros\src\main\java\com\nathan\springboot_libros\service\UsuarioServicelmpl.java
+C:\Dev\projects\fullstack3\Semana 6\spingboot-libros\src\main\java\com\nathan\springboot_libros\SpringbootLibrosApplication.java
